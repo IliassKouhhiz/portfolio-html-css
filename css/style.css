@@ -10,12 +10,12 @@ body {
 
 @font-face {
   font-family: "Gilroy Light";
-  src: url("../../fonts/Gilroy-Light.woff") format("woff");
+  src: url(".././fonts/Gilroy-Light.woff") format("woff");
 }
 
 @font-face {
   font-family: "Gilroy Extra Bold";
-  src: url("../../fonts/Gilroy-ExtraBold.woff") format("woff");
+  src: url(".././fonts/Gilroy-ExtraBold.woff") format("woff");
 }
 
 .header {
